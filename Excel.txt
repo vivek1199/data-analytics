@@ -16,3 +16,4 @@ EXCEL:
       11.countif-(=countif(range,kya chaiye?))
       12.sumif-(=sumif(range,kiska?,kya sum?))
       13.avergaeif-(=averageif(range,kiska?,kya average?))
+      14.sumifs-(=sumifs(subject,studentname,alice,grade,a))
