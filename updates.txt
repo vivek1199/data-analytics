@@ -7,4 +7,9 @@ EXCEL:
       4.right-(=RIGHT())
       5.left-(=LEFT())
       6.split-(=textsplit(C44,$D$42))
-      
+      7.gpt-(=GPT_FILL(Example,range))
+      8.vlookup-(=vlookup(kya?,kisme?,kiko?))
+                  (=vlookup(A2,A1:B,2,0))
+      9.xlookup-(=xlookup(kiske liye?,kisme?,kya?))
+                  (=xlookup(A2,CityB:B,CityA:A))
+      10.average
