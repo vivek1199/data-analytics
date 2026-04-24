@@ -1,1 +1,10 @@
+started data analytics with:-
 
+EXCEL:
+      1.Sum-(=SUM())
+      2.min-(=MIN())
+      3.max-(=MAX())
+      4.right-(=RIGHT())
+      5.left-(=LEFT())
+      6.split-(=textsplit(C44,$D$42))
+      
