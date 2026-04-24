@@ -13,3 +13,6 @@ EXCEL:
       9.xlookup-(=xlookup(kiske liye?,kisme?,kya?))
                   (=xlookup(A2,CityB:B,CityA:A))
       10.average
+      11.countif-(=countif(range,kya chaiye?))
+      12.sumif-(=sumif(range,kiska?,kya sum?))
+      13.avergaeif-(=averageif(range,kiska?,kya average?))
