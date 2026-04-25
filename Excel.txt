@@ -18,3 +18,16 @@ EXCEL:
       13.avergaeif-(=averageif(range,kiska?,kya average?))
       14.sumifs-(=sumifs(subject,studentname,alice,grade,a))
       15.if-(=if(no.>range"PASS""FAIL"))
+      16.Conditional Formatting
+      17.Sorting
+      18.Filter
+      19.Alignment
+      20.Text Rotation
+      21.Wrapping
+      22.Charts
+      23.Borders
+      24.Data Cleaning
+      25.Find & Replace
+      26.Spelling Check
+      27.Importrange
+      28.Merge
